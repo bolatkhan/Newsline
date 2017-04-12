@@ -1,0 +1,102 @@
+{
+    "mode": "newsapp",
+    "appname": "Lorem Ipsum",
+    "ipad": 1,
+    "opendirectlink": false,
+    "rtlview": false,
+    "iswebsources": false,
+    "admobfullsourcelinkopen": false,
+    "admobfullunitid": "",
+    "admobfulldelay": "3",
+    "admobbannersourcelinkopen": false,
+    "admobbannerunitid": "",
+    "admobbannerdelay": "1",
+    "color": {
+        "maincolor": "#fbfbfb",
+        "mainfontcolor": "#260808",
+        "mainselectednews": "#cccccc",
+        "mainnavigationtitle": "#f8f7f7",
+        "mainnavigationtitlefontcolor": "#333333",
+        "mainnavigationtitletint": "#333333",
+        "mainnavigationfooter": "#cccccc",
+        "leftmenubackground": "#f4f4f4",
+        "leftmenufontcolor": "#333333",
+        "leftmenu": "#f4f4f4",
+        "leftmenuselected": "#d9d9d9",
+        "selectednewspage": "#fbfbfb",
+        "selectednewspageitem": "#ffffff",
+        "selectednewspageclickitem": "#a7e8ff",
+        "selectednewspagefontcolor": "#333333",
+        "selectednewspagetitle": "#f8f7f7",
+        "selectednewspagenavfontcolor": "#333333",
+        "webviewfootertint": "#c1c2c1",
+        "webviewfooter": "#575757"
+    },
+    "menu": [
+             {
+             "id": 1,
+             "title": "NUR.kz",
+             "favicon": "https:\/\/www.google.com\/s2\/favicons?domain=http:\/\/nur.kz\/",
+             "rsslink": "http:\/\/news.nur.kz\/rss\/all.rss"
+             
+             },
+             {
+             "id": 2,
+             "title": "Zakon.kz",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/zakon.kz\/",
+             "rsslink": "http:\/\/st.zakon.kz\/rss\/rss_all.xml"
+             },
+            
+             {
+             "id": 3,
+             "title": "Diapazon",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/diapazon.kz\/",
+             "rsslink": "http:\/\/www.diapazon.kz\/rss.xml"
+             },
+             {
+             "id": 4,
+             "title": "Khabar",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/khabar.kz\/",
+             "rsslink": "http:\/\/www.khabar.kz\/kz\/agency\/zekti?format=feed"
+             },
+             {
+             "id": 5,
+             "title": "Forbes",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/forbes.kz\/",
+             "rsslink": "https://forbes.kz/rss/articles"
+             },
+             {
+             "id": 6,
+             "title": "The-Steppe",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/the-steppe.com\/",
+             "rsslink": "https://the-steppe.com/feed/rss"
+             },
+             {
+             "id": 7,
+             "title": "Tengrinews",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http://tengrinews.kz",
+             "rsslink": "http://tengrinews.kz/news.rss"
+             }
+             ,
+             {
+             "id": 8,
+             "title": "Informburo",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=https://informburo.kz",
+             "rsslink": "https://informburo.kz/xml/rss.xml"
+             }
+             ,
+             {
+             "id": 9,
+             "title": "Today.kz",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http://today.kz/static/rss.xml",
+             "rsslink": "http://today.kz/static/rss.xml"
+             } ,
+             {
+             "id": 10,
+             "title": "Kursiv",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http://kursiv.kz",
+             "rsslink": "http://kursiv.kz/rss/news.xml"
+             }
+             
+            ]
+}
